@@ -1,3 +1,3 @@
 # CIFAR-10-using-Keras
 
-Keras CNN for image classification using cifar10 dataset 
+Keras CNN for image classification using cifar10 dataset and data augmentation. 
